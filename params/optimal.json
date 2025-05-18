@@ -1,0 +1,15 @@
+{
+  "blur_ksize": [7, 7],
+  "canny_thresh1": 45,
+  "canny_thresh2": 90,
+  "close_kernel_size": [3, 3],
+  "hough_threshold": 40,
+  "min_line_length": 70,
+  "max_line_gap": 15,
+  "angle_tolerance": 8,
+  "y_group_distance": 10,
+  "discard_small_groups": true,
+  "group_min_size": 2,
+  "apply_clahe": false,
+  "length_ratio_threshold": 0.3
+}
